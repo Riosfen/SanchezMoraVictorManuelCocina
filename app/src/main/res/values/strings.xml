@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SanchezMoraVictorManuelCocina</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="postre">Postre</string>
+    <string name="sopa">SOPA</string>
+    <string name="macarrones">MACARRONES</string>
+    <string name="tocino_de_cielo">TOCINO DE CIELO</string>
+    <string name="arroz_con_leche">ARROZ CON LECHE</string>
+    <string name="primer_plato">Primer plato</string>
+    <string name="enviar">Enviar</string>
+    <string name="segundo_plato">Segundo plato</string>
+    <string name="paella">PAELLA</string>
+    <string name="atun">ATUN</string>
+    <string name="choco_frito">CHOCO FRITO</string>
+    <string name="capacidad">Capacidad</string>
+    <string name="vino">Vino</string>
+    <string name="_1_litro">1 litro</string>
+    <string name="_750_cc">750 cc</string>
+    <string name="_500_cc">500 cc</string>
+    <string name="_250_cc">250 cc</string>
+    <string name="pedir">Pedir</string>
+    <string name="precio_del_menu">Precio del menu</string>
+    <string name="pago">Pago</string>
+    <string name="cobrar">cobrar</string>
+
+    <string-array name="array_vinos">
+        <item>BLANCO</item>
+        <item>TINTO</item>
+        <item>ROSADO</item>
+    </string-array>
+</resources>
